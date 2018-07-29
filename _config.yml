@@ -602,12 +602,13 @@ collections:
     output: false
 
 donation_banner:
-  address: 3FkenCiXpSLqD8L79intRNXUgjRoH9sjXa
-  display: false
+  address: 14pQbLgm6N2zAy1KyixvxZkdV1oLgbHa5s
+  display: true
   amounts_in_usd:
     - 5
     - 25
     - 50
+    - 777
 
 defaults:
   - scope:
